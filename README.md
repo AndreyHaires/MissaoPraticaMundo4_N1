@@ -14,8 +14,5 @@ Este é um projeto de exemplo desenvolvido em React Native para gerenciamento de
 
 Tecnologias Utilizadas
 
-React Native
-React Navigation
-AsyncStorage
-ImagePicker
+React Native, React Navigation, AsyncStorage,ImagePicker.
 
